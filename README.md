@@ -4,4 +4,4 @@ This is Demo Project for understanding basic github for teams
 
 ## Github Pages
 
-[Open] this web page in browser
+[Open](https://peracs.github.io/project-demo/) this web page in browser
